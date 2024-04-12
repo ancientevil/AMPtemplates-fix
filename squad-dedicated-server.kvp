@@ -41,4 +41,4 @@ Meta.DisplayName=Squad Dedicated Server
 Meta.EndpointURIFormat=steam://connect/{ip}:{GenericModule.App.ApplicationPort2}
 Meta.OS=3
 Meta.URL=https://joinsquad.com/
-Meta.AppConfigId=bg280234-c67b-35c5-72xy-dc27fea91ee1
+Meta.AppConfigId=ddb38381-7434-43e2-8919-3c394b1932b1
